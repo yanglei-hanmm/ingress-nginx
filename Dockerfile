@@ -1,2 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v0.40.2@sha256:46ba23c3fbaafd9e5bd01ea85b2f921d9f2217be082580edc22e6c704a83f02f
-MAINTAINER yanglei
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.2.0
